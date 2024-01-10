@@ -3,6 +3,7 @@ using namespace std;
 int main()
 {
     int n;
+    cout<<"a change is made"<<endl;
     cout << "enter size" << endl;
     cin >> n;
     for (int i = 0; i <= n / 2; i++)
